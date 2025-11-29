@@ -1,3 +1,3 @@
 https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?utm_source=chatgpt.com&select=Plant_2_Generation_Data.csv
 
-
+https://huggingface.co/datasets/Creatorin/solar_selected/viewer/default/train?views%5B%5D=train
